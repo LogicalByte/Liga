@@ -1,0 +1,7 @@
+D:\Projekte\Liga\Liga\bin\Debug\Liga.exe.config
+D:\Projekte\Liga\Liga\bin\Debug\Liga.exe
+D:\Projekte\Liga\Liga\bin\Debug\Liga.pdb
+D:\Projekte\Liga\Liga\obj\Debug\Liga.csproj.CoreCompileInputs.cache
+D:\Projekte\Liga\Liga\obj\Debug\Liga.exe
+D:\Projekte\Liga\Liga\obj\Debug\Liga.pdb
+D:\Projekte\Liga\Liga\obj\Debug\Liga.csprojResolveAssemblyReference.cache
