@@ -9,7 +9,7 @@ namespace Liga
         private const bool SpielpaarungenAnzeigen = true;
         private const bool TabelleAnzeigen = true;
 
-        static void Main(string[] args)
+        static void Main(string[] args)  
         {
             // Initialisieren der Teilnehmer gemäß der Teilnehmeranzahl
             Teilnehmer[] teilnehmer = new Teilnehmer[Teilnehmeranzahl];
