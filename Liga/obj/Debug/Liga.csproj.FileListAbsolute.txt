@@ -5,3 +5,10 @@ D:\Projekte\Liga\Liga\obj\Debug\Liga.csproj.CoreCompileInputs.cache
 D:\Projekte\Liga\Liga\obj\Debug\Liga.exe
 D:\Projekte\Liga\Liga\obj\Debug\Liga.pdb
 D:\Projekte\Liga\Liga\obj\Debug\Liga.csprojResolveAssemblyReference.cache
+d:\Projekte\LigaGitHub\Liga\bin\Debug\Liga.exe.config
+d:\Projekte\LigaGitHub\Liga\bin\Debug\Liga.exe
+d:\Projekte\LigaGitHub\Liga\bin\Debug\Liga.pdb
+d:\Projekte\LigaGitHub\Liga\obj\Debug\Liga.csprojResolveAssemblyReference.cache
+d:\Projekte\LigaGitHub\Liga\obj\Debug\Liga.csproj.CoreCompileInputs.cache
+d:\Projekte\LigaGitHub\Liga\obj\Debug\Liga.exe
+d:\Projekte\LigaGitHub\Liga\obj\Debug\Liga.pdb

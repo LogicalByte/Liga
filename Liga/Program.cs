@@ -5,8 +5,9 @@ namespace Liga
     class Program
     {
         // Definieren der Konstanten
-        private const int Teilnehmeranzahl = 4;
+        private const int Teilnehmeranzahl = 5;
         private const bool SpielpaarungenAnzeigen = true;
+        private const bool TabelleSortieren = true;
         private const bool TabelleAnzeigen = true;
 
         static void Main(string[] args)  
@@ -27,11 +28,9 @@ namespace Liga
             // Austragen der Spielpaarungen
             Spielpaarungen.SpieleAustragen(teilnehmer, spielpaarungen, SpielpaarungenAnzeigen);
 
-            // Beispielhafter Aufruf einer Methode eines Teilnehmers.
-            Console.WriteLine("{0}", teilnehmer[0].HoechsteNiederlage(spielpaarungen, teilnehmer));
-
-            // Ausgabe der Endtabelle
-            if (TabelleAnzeigen == true) { Teilnehmer.TabelleAusgeben(teilnehmer); }
+            // Sortierung und Ausgabe der Endtabelle
+            if (TabelleAnzeigen == true) { Teilnehmer.TabelleAusgeben(teilnehmer, TabelleSortieren); }
+            teilnehmer[0].Teilnehmerinfo(spielpaarungen, teilnehmer);
         }
     }
 }
